@@ -1,4 +1,4 @@
-# nnUnet and STUNet fine-tuning on Liver ATLAS Challenge Dataset
+# nn-Unet and STUNet fine-tuning on Liver ATLAS Challenge Dataset
 
 This guide outlines the steps for fine-tuning the STU-Net model using the ATLAS dataset and running inference for result calculation.
 
@@ -64,6 +64,8 @@ python nnunetv2/inference/examples.py
 - Update the test set and result directory accordingly.
 ## 6. Calculate Metrics
 Go to the Dataset Origin folder (e.g Dataset003_Liver) to execute the metric calculation. Adjust the inference result directory and the label test directory.
+## 7. Acknowledgment
+Code is prepared by Thanh-Huy Nguyen (Universite de Bourgogne, France)
 
 Run the following command to calculate the metrics:
 ```bash
