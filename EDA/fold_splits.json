@@ -1,0 +1,429 @@
+{
+    "fold_1": {
+        "train": {
+            "arterial": [
+                "im11",
+                "im1",
+                "im42",
+                "im14",
+                "im59",
+                "im49",
+                "im5",
+                "im54",
+                "im4",
+                "im39",
+                "im32",
+                "im3",
+                "im33",
+                "im22",
+                "im58",
+                "im0",
+                "im44",
+                "im7",
+                "im43",
+                "im53",
+                "im15",
+                "im40",
+                "im34",
+                "im25",
+                "im17",
+                "im26"
+            ],
+            "delayed": [
+                "im19",
+                "im57",
+                "im21",
+                "im16",
+                "im2",
+                "im36"
+            ],
+            "no contrast agent": [
+                "im52",
+                "im29"
+            ],
+            "portal": [
+                "im37",
+                "im23",
+                "im27",
+                "im41",
+                "im51",
+                "im9",
+                "im56",
+                "im13"
+            ],
+            "unkown": [
+                "im10",
+                "im24",
+                "im50",
+                "im47",
+                "im55",
+                "im12"
+            ]
+        },
+        "val": {
+            "arterial": [
+                "im35",
+                "im6",
+                "im28",
+                "im45",
+                "im20",
+                "im18",
+                "im48"
+            ],
+            "delayed": [
+                "im8",
+                "im31"
+            ],
+            "no contrast agent": [],
+            "portal": [
+                "im38",
+                "im46"
+            ],
+            "unkown": [
+                "im30"
+            ]
+        }
+    },
+    "fold_2": {
+        "train": {
+            "arterial": [
+                "im6",
+                "im25",
+                "im48",
+                "im4",
+                "im20",
+                "im14",
+                "im58",
+                "im35",
+                "im18",
+                "im59",
+                "im43",
+                "im40",
+                "im7",
+                "im54",
+                "im3",
+                "im42",
+                "im11",
+                "im32",
+                "im28",
+                "im44",
+                "im5",
+                "im17",
+                "im34",
+                "im53",
+                "im26",
+                "im0"
+            ],
+            "delayed": [
+                "im19",
+                "im36",
+                "im2",
+                "im16",
+                "im57",
+                "im8",
+                "im31"
+            ],
+            "no contrast agent": [
+                "im29"
+            ],
+            "portal": [
+                "im56",
+                "im38",
+                "im27",
+                "im51",
+                "im46",
+                "im41",
+                "im37",
+                "im9"
+            ],
+            "unkown": [
+                "im24",
+                "im12",
+                "im50",
+                "im55",
+                "im30",
+                "im47"
+            ]
+        },
+        "val": {
+            "arterial": [
+                "im39",
+                "im33",
+                "im22",
+                "im15",
+                "im1",
+                "im45",
+                "im49"
+            ],
+            "delayed": [
+                "im21"
+            ],
+            "no contrast agent": [
+                "im52"
+            ],
+            "portal": [
+                "im13",
+                "im23"
+            ],
+            "unkown": [
+                "im10"
+            ]
+        }
+    },
+    "fold_3": {
+        "train": {
+            "arterial": [
+                "im5",
+                "im43",
+                "im20",
+                "im34",
+                "im25",
+                "im28",
+                "im14",
+                "im32",
+                "im0",
+                "im39",
+                "im4",
+                "im42",
+                "im44",
+                "im45",
+                "im17",
+                "im40",
+                "im15",
+                "im22",
+                "im3",
+                "im11",
+                "im58",
+                "im18",
+                "im59",
+                "im53",
+                "im49",
+                "im1"
+            ],
+            "delayed": [
+                "im21",
+                "im36",
+                "im31",
+                "im57",
+                "im8",
+                "im2"
+            ],
+            "no contrast agent": [
+                "im52",
+                "im29"
+            ],
+            "portal": [
+                "im51",
+                "im56",
+                "im9",
+                "im37",
+                "im23",
+                "im27",
+                "im46",
+                "im41"
+            ],
+            "unkown": [
+                "im24",
+                "im55",
+                "im12",
+                "im10",
+                "im30",
+                "im50"
+            ]
+        },
+        "val": {
+            "arterial": [
+                "im6",
+                "im48",
+                "im33",
+                "im54",
+                "im26",
+                "im35",
+                "im7"
+            ],
+            "delayed": [
+                "im19",
+                "im16"
+            ],
+            "no contrast agent": [],
+            "portal": [
+                "im38",
+                "im13"
+            ],
+            "unkown": [
+                "im47"
+            ]
+        }
+    },
+    "fold_4": {
+        "train": {
+            "arterial": [
+                "im20",
+                "im34",
+                "im59",
+                "im39",
+                "im35",
+                "im18",
+                "im25",
+                "im28",
+                "im45",
+                "im4",
+                "im11",
+                "im40",
+                "im3",
+                "im17",
+                "im0",
+                "im32",
+                "im53",
+                "im44",
+                "im33",
+                "im1",
+                "im48",
+                "im58",
+                "im43",
+                "im42",
+                "im22",
+                "im54",
+                "im7"
+            ],
+            "delayed": [
+                "im31",
+                "im2",
+                "im21",
+                "im8",
+                "im16",
+                "im19"
+            ],
+            "no contrast agent": [
+                "im52",
+                "im29"
+            ],
+            "portal": [
+                "im51",
+                "im23",
+                "im46",
+                "im13",
+                "im27",
+                "im38",
+                "im41",
+                "im9"
+            ],
+            "unkown": [
+                "im10",
+                "im50",
+                "im30",
+                "im24",
+                "im12"
+            ]
+        },
+        "val": {
+            "arterial": [
+                "im15",
+                "im49",
+                "im5",
+                "im14",
+                "im26",
+                "im6"
+            ],
+            "delayed": [
+                "im57",
+                "im36"
+            ],
+            "no contrast agent": [],
+            "portal": [
+                "im37",
+                "im56"
+            ],
+            "unkown": [
+                "im47",
+                "im55"
+            ]
+        }
+    },
+    "fold_5": {
+        "train": {
+            "arterial": [
+                "im49",
+                "im14",
+                "im22",
+                "im6",
+                "im58",
+                "im25",
+                "im11",
+                "im3",
+                "im48",
+                "im32",
+                "im4",
+                "im1",
+                "im35",
+                "im42",
+                "im0",
+                "im44",
+                "im45",
+                "im53",
+                "im7",
+                "im28",
+                "im54",
+                "im40",
+                "im43",
+                "im33",
+                "im34",
+                "im17",
+                "im15"
+            ],
+            "delayed": [
+                "im36",
+                "im16",
+                "im19",
+                "im57",
+                "im31",
+                "im21",
+                "im8"
+            ],
+            "no contrast agent": [
+                "im29"
+            ],
+            "portal": [
+                "im27",
+                "im37",
+                "im56",
+                "im9",
+                "im51",
+                "im38",
+                "im41",
+                "im23"
+            ],
+            "unkown": [
+                "im24",
+                "im10",
+                "im50",
+                "im30",
+                "im55"
+            ]
+        },
+        "val": {
+            "arterial": [
+                "im39",
+                "im18",
+                "im5",
+                "im20",
+                "im26",
+                "im59"
+            ],
+            "delayed": [
+                "im2"
+            ],
+            "no contrast agent": [
+                "im52"
+            ],
+            "portal": [
+                "im13",
+                "im46"
+            ],
+            "unkown": [
+                "im12",
+                "im47"
+            ]
+        }
+    }
+}
