@@ -1,4 +1,4 @@
-# STU-Net Fine-Tuning and Inference for ATLAS Dataset
+# nnUnet and STUNet fine-tuning on Liver ATLAS Challenge Dataset
 
 This guide outlines the steps for fine-tuning the STU-Net model using the ATLAS dataset and running inference for result calculation.
 
