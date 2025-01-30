@@ -1,4 +1,5 @@
-# nn-Unet and STUNet fine-tuning on Liver ATLAS Challenge Dataset
+# The Fine-tuned Robust Scalable nn-Unet-based Framework on Liver ATLAS Challenge Dataset
+by Thanh-Huy Nguyen et.al. (Universite de Bourgogne, France)
 
 This guide outlines the steps for fine-tuning the STU-Net model using the ATLAS dataset and running inference for result calculation.
 
